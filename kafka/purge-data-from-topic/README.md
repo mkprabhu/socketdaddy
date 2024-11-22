@@ -12,7 +12,7 @@ This directory contains two Bash scripts to purge data from a Kafka topic. The s
    - For Kafka clusters that require authentication.
    - Passes a `client.properties` file containing the necessary security credentials.
 
-For more details on purging Kafka topics, read this guide on [SocketDaddy.com](https://socketdaddy.com/apache-kafka/how-to-purge-data-from-kafka-topics/).
+For more details on purging Kafka topics, read this guide on [SocketDaddy.com](https://bit.ly/3Ojgqlw).
 
 ---
 
@@ -21,7 +21,7 @@ The scripts will remove any retention config applied on the topic. If you have a
 ```
 $KAFKA_BIN_DIR/kafka-configs.sh --bootstrap-server $BOOTSTRAP_SERVER --entity-type topics --entity-name $TOPIC_NAME --alter --add-config retention.ms=<YOUR_RETENTION_MS>
 ```
----
+---s
 
 ## Script 1: Purge Without Authentication
 

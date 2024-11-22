@@ -20,7 +20,8 @@ This folder contains two files demonstrating how to format MySQL output without 
 ### Running the Shell Script
 1. Ensure MySQL is installed and accessible via the CLI.
 2. Update the script with your MySQL username, password, and table details.
-3. Execute the script:
+3. Use either the first or the second command in the script. Comment out the command you dont want executed. Otherwise, the script will try to execute both. 
+4. Execute the script:
    ```bash
    bash CLI_Print_MySQL_Output_No_Headers.sh
    ```

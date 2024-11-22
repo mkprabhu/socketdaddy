@@ -40,9 +40,8 @@ $KAFKA_BIN_DIR/kafka-configs.sh --bootstrap-server $BOOTSTRAP_SERVER --entity-ty
    ./purge_kafka_topic_no_auth.sh
    ```
 
---
-
 ## Script 2: Purge With Authentication
+
 ### Prerequisites
 - Kafka is installed and accessible on your system.
 - The Kafka topic you want to purge exists.

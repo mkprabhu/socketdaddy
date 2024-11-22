@@ -49,7 +49,7 @@ $KAFKA_BIN_DIR/kafka-configs.sh --bootstrap-server $BOOTSTRAP_SERVER --entity-ty
    - `CLIENT_PROPERTIES`: Path to the client properties file
 3. Run the script:
    ```bash
-   ./purge_kafka_topic_no_auth.sh
+   ./purge_kafka_topic_with_auth.sh
    ```
 
 ---

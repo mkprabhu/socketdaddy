@@ -17,7 +17,7 @@ For more details on purging Kafka topics, read this guide on [SocketDaddy.com](h
 ---
 
 ## Important to note
-The scripts will remove any retention config applied on the topic. If you have any retention configured on your topic specifically, you may need to apply the retention config again using:
+**The scripts will remove any retention config applied on the topic**. If you have any retention configured on your topic specifically, you may need to apply the retention config again using:
 ```
 $KAFKA_BIN_DIR/kafka-configs.sh --bootstrap-server $BOOTSTRAP_SERVER --entity-type topics --entity-name $TOPIC_NAME --alter --add-config retention.ms=<YOUR_RETENTION_MS>
 ```

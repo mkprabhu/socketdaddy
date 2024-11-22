@@ -1,6 +1,6 @@
 # SocketDaddy.com Example Code Repository
 
-Welcome to the **SocketDaddy Example Code Repository**! This repository hosts the example code, scripts, and utilities featured in the guides, tutorials, and posts published on [SocketDaddy.com](https://socketdaddy.com).
+Welcome to the **SocketDaddy.com Example Code Repository**! This repository hosts the example code, scripts, and utilities featured in the guides, tutorials, and posts published on [SocketDaddy.com](https://socketdaddy.com).
 
 SocketDaddy.com is your go-to platform for practical and hands-on technical guides covering topics like Kafka, Python, Kubernetes, Linux, and more. Each post is crafted with an emphasis on usability and simplicity, helping developers and IT professionals solve real-world problems efficiently.
 

@@ -21,7 +21,7 @@ The scripts will remove any retention config applied on the topic. If you have a
 ```
 $KAFKA_BIN_DIR/kafka-configs.sh --bootstrap-server $BOOTSTRAP_SERVER --entity-type topics --entity-name $TOPIC_NAME --alter --add-config retention.ms=<YOUR_RETENTION_MS>
 ```
----s
+---
 
 ## Script 1: Purge Without Authentication
 

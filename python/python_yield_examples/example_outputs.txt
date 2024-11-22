@@ -1,0 +1,47 @@
+
+# Example 1: Generating a Sequence of Numbers
+Output:
+0
+1
+2
+3
+4
+
+# Example 2: Reading a Large File Line by Line
+Output:
+(Example assumes 'large_file.txt' contains the following lines)
+Line 1: This is the first line.
+Line 2: This is the second line.
+
+Result:
+This is the first line.
+This is the second line.
+
+# Example 3: Generating an Infinite Sequence
+Output (First 5 numbers):
+0
+2
+4
+6
+8
+
+# Example 4: Fibonacci Sequence Generator
+Output (First 10 numbers):
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+
+# Example 5: Generator Expression
+Output:
+0
+1
+4
+9
+16

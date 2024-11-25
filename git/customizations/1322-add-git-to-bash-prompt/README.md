@@ -48,7 +48,7 @@ This repository contains a shell script to customize your Bash prompt to include
 
 ## Learn More
 
-For a detailed explanation of customizing Git prompts in Bash, read our article on [SocketDaddy](https://socketdaddy.com/uncategorized/auto-draft/?source=github&campaign=example_code&medium=readme).
+For a detailed explanation of customizing Git prompts in Bash, read our article on [SocketDaddy](https://socketdaddy.com/git/how-to-customize-git-prompts-in-the-bash-prompt/?source=github&campaign=example_code&medium=readme).
 
 ---
 

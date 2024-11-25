@@ -1,7 +1,7 @@
 
 # Ansible Installation and Setup
 
-This repository contains example code used in the blog post on [SocketDaddy.com](https://socketdaddy.com/ansible/adding-ansible-to-path/?utm_source=github&utm_medium=example_code&utm_campaign=readme). The example demonstrates how to add Ansible to the PATH system variable.
+This folder contains example code used in the blog post on [SocketDaddy.com](https://socketdaddy.com/ansible/adding-ansible-to-path/?utm_source=github&utm_medium=example_code&utm_campaign=readme). The example demonstrates how to add Ansible to the PATH system variable.
 
 ## Overview
 

@@ -31,10 +31,12 @@ Ensure you have:
    ```
 3. Execute the playbook to add Ansible to the system's PATH:
    ```bash
+   # To permanently add to PATH
    sh add_ansible_to_path_perm.sh
    ```
    **Or**
    ```bash
+   # To temporarily add to PATH
    sh add_ansible_to_path_temp.sh
    ```
 4. If you wish to manually execute the steps, refer to the commands in the `manual_add_ansible_to_path.sh` file.

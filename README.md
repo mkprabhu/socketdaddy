@@ -20,8 +20,8 @@ The purpose of this repository is to:
 The repository is organized by topics and posts:
 
 - **`kafka/`**: Contains scripts, configurations, and utilities for Kafka-related guides.
-- **`kubernetes/`**: Utilities and examples for DNS resolution, lookups, and management.
-- **`python/`**: Code snippets and examples for various networking-related posts.
+- **`kubernetes/`**: Utilities and examples for all Kubernetes-related guides.
+- **`python/`**: Code snippets and examples for various python guides and code examples.
 - **`misc/`**: Miscellaneous examples and utilities for general use cases.
 
 Each folder corresponds to a topic or series of guides, and the contents are labeled clearly for ease of navigation.
@@ -41,7 +41,7 @@ Each folder corresponds to a topic or series of guides, and the contents are lab
 
 ## Contributing
 
-We welcome contributions to this repository! Whether it’s improving existing examples, adding new scripts, or fixing bugs, your help is appreciated. 
+We welcome contributions to this repository! Whether it's improving existing examples, adding new scripts, or fixing bugs, your help is appreciated. 
 
 ### How to Contribute
 1. Fork the repository.
@@ -54,7 +54,7 @@ We welcome contributions to this repository! Whether it’s improving existing e
 
 If you encounter any issues with the examples or have suggestions for improvements, feel free to:
 - Open an issue on this repository.
-- Contact us directly through [SocketDaddy.com](https://socketdaddy.com/contact).
+- Contact us directly through [SocketDaddy.com](https://socketdaddy.com/).
 
 We’re here to help!
 
